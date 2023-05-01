@@ -1,0 +1,62 @@
+[
+    {
+        "subCategoryId": 1,
+        "categoryId": 1,
+        "subCategoryName": "smart phones"
+    },
+    {
+        "subCategoryId": 2,
+        "categoryId": 1,
+        "subCategoryName": "TVs"
+    },
+    {
+        "subCategoryId": 3,
+        "categoryId": 1,
+        "subCategoryName": "laptops"
+    },
+    {
+        "subCategoryId": 4,
+        "categoryId": 2,
+        "subCategoryName": "boots"
+    },
+    {
+        "subCategoryId": 5,
+        "categoryId": 2,
+        "subCategoryName": "shirts"
+    },
+    {
+        "subCategoryId": 6,
+        "categoryId": 3,
+        "subCategoryName": "assets"
+    },
+    {
+        "subCategoryId": 7,
+        "categoryId": 3,
+        "subCategoryName": "securities"
+    },
+    {
+        "subCategoryId": 8,
+        "categoryId": 3,
+        "subCategoryName": "futures"
+    },
+    {
+        "subCategoryId": 9,
+        "categoryId": 4,
+        "subCategoryName": "management"
+    },
+    {
+        "subCategoryId": 10,
+        "categoryId": 5,
+        "subCategoryName": "grocery"
+    },
+    {
+        "subCategoryId": 11,
+        "categoryId": 5,
+        "subCategoryName": "vegetables"
+    },
+    {
+        "subCategoryId": 12,
+        "categoryId": 5,
+        "subCategoryName": "fruits"
+    }
+]

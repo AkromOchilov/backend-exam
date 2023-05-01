@@ -1,0 +1,162 @@
+[
+    {
+        "productId": 1,
+        "subCategoryId": 1,
+        "model": "redmi",
+        "productName": "redmi note 6 pro",
+        "color": "black",
+        "price": "140"
+    },
+    {
+        "productId": 2,
+        "subCategoryId": 1,
+        "model": "samsung",
+        "productName": "galaxy 7",
+        "color": "red",
+        "price": "190"
+    },
+    {
+        "productId": 3,
+        "subCategoryId": 2,
+        "model": "Artel",
+        "productName": "Artel 48 2x",
+        "color": "black",
+        "price": "340"
+    },
+    {
+        "productId": 4,
+        "subCategoryId": 3,
+        "model": "hp",
+        "productName": "hp pavilon",
+        "color": "silver",
+        "price": "640"
+    },
+    {
+        "productId": 5,
+        "subCategoryId": 4,
+        "model": "salamandra",
+        "productName": "salamandra 42 x1",
+        "color": "black",
+        "price": "32"
+    },
+    {
+        "productId": 6,
+        "subCategoryId": 5,
+        "model": "polo",
+        "productName": "polo xr13",
+        "color": "white",
+        "price": "12"
+    },
+    {
+        "productId": 7,
+        "subCategoryId": 1,
+        "model": "iphone",
+        "productName": "14",
+        "color": "red",
+        "price": "1000"
+    },
+    {
+        "productId": 8,
+        "subCategoryId": 2,
+        "model": "Artel",
+        "productName": "14",
+        "color": "black",
+        "price": "1000"
+    },
+    {
+        "productId": 9,
+        "subCategoryId": 1,
+        "model": "Artel",
+        "productName": "14",
+        "color": "red",
+        "price": "500"
+    },
+    {
+        "productId": 10,
+        "subCategoryId": 1,
+        "model": "samsung",
+        "productName": "samsung galaxy A6",
+        "color": "black",
+        "price": "180"
+    },
+    {
+        "productId": 11,
+        "subCategoryId": 1,
+        "model": "apple",
+        "productName": "Iphone 14pro",
+        "color": "blue",
+        "price": "1250"
+    },
+    {
+        "productId": 12,
+        "subCategoryId": 3,
+        "model": "apple",
+        "productName": "macbook pro13 M1",
+        "color": "spacegrey",
+        "price": "1350"
+    },
+    {
+        "productId": 13,
+        "subCategoryId": 3,
+        "model": "vivo",
+        "productName": "vivobook",
+        "color": "grey",
+        "price": "700"
+    },
+    {
+        "productId": 14,
+        "subCategoryId": 7,
+        "model": "redmi",
+        "productName": "shoker",
+        "color": "green",
+        "price": "170"
+    },
+    {
+        "productId": 15,
+        "subCategoryId": 9,
+        "model": "rolex",
+        "productName": "watch",
+        "color": "white",
+        "price": "200"
+    },
+    {
+        "productId": 16,
+        "subCategoryId": 9,
+        "model": "google",
+        "productName": "forest-app",
+        "color": "green",
+        "price": "15"
+    },
+    {
+        "productId": 17,
+        "subCategoryId": 11,
+        "model": "picasso",
+        "productName": "carrot",
+        "color": "yellow",
+        "price": "3"
+    },
+    {
+        "productId": 18,
+        "subCategoryId": 11,
+        "model": "picasso",
+        "productName": "potato",
+        "color": "gray",
+        "price": "2"
+    },
+    {
+        "productId": 19,
+        "subCategoryId": 12,
+        "model": "egypt",
+        "productName": "banana",
+        "color": "yellow",
+        "price": "2"
+    },
+    {
+        "productId": 20,
+        "subCategoryId": 12,
+        "model": "golden",
+        "productName": "apple",
+        "color": "red",
+        "price": "1"
+    }
+]
